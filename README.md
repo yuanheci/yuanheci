@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/jasonkayzk/jasonkayzk@master/hello-world.gif" width="30%">
+</p>
+
 <!-- dynamic typing effect 动态打字效果 -->
 <div align="center">
   <a href="https://yuanheci.com/">
