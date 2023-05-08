@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - :orange_book: Focusing on C/C++ & Embedded System
-- 🌱 I’m currently learning and sharing on my [blog](https://yuanheci.top/), welcome~
+- 🌱 I’m currently learning and sharing on my [blog](https://yuanheci.top/)
 - 😄 Pronouns: hh~~
 
 
